@@ -1,7 +1,4 @@
-# Java Spring RESTful API (FINAL PROJECT)
-Full Source Code series Java Spring Restful (dự án jobHunter) của tác giả Hỏi Dân IT (Eric)
-
-===
+# Job Hunter (FINAL PROJECT)
 Môi trường dự án: Java v17
 
 ## Về tác giả
